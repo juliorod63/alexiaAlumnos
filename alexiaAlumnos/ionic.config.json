@@ -1,0 +1,7 @@
+{
+  "name": "alexiaAlumnos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
